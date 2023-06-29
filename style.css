@@ -1,0 +1,56 @@
+.warna1 {
+    background-color: #8E806A;
+}
+
+.warna2 {
+    background-color: #C3B091;
+}
+
+.warna3 {
+    background-color: #E4CDA7;
+}
+
+.warna4 {
+    background-color: #FFE6BC;
+}
+
+.banner {
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('assets/banner2.jpg');
+    background-size: cover;
+}
+
+.highlighted-kategori {
+    height: 250px;
+}
+
+.kategori-baju {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('assets/kategoribaju.jpg');
+    background-size: cover;
+}
+
+.kategori-celana {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('assets/kategoricelana.jpg');
+    background-size: cover;
+}
+
+.kategori-jaket {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('assets/kategorijaket.jpg');
+    background-size: cover;
+}
+
+.highlighted-kategori a {
+    text-decoration: none;
+    color: white;
+}
+
+.highlighted-kategori a:hover {
+    color: #C3B091;
+}
+
+.text-harga {
+    font-size: 1.25rem;
+    /* color: #FFE6BC; */
+    /* color: #E4CDA7; */
+    color: #8E806A;
+}
